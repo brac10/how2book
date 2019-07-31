@@ -3,5 +3,5 @@
   Ranger-Pi How 2 Book
 </h1>
 </p>
-## 🚀 AWS Commands
-## 🚀 GIT Commands
+# 🚀 AWS Commands
+# 🚀 GIT Commands
