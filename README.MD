@@ -4,19 +4,19 @@
 </h1>
 </p>
 
-# 🚀 AWS (Amazon Web Services)
+# 🚀 [AWS](/index.html) (Amazon Web Services)
 
 ## Web Services
 
 ## CLI Commands
 
-# Raspberry PI
+# [RaspberryPI](/index.html)
 
 All things related to hardware and software installation
 
 # SD Card
 
-# Software Installation
+# Software Installation [SOFTWARE]/(index.html)
 
 ## Visual code
 
@@ -74,7 +74,7 @@ You can configure key based ssh for the remote Linux Ansible hosts. So password 
 - \$ sudo apt update
 - \$ sudo pip install ansible (using Python PIP) can also use Home-brew.
 
-# 🚀 GIT Commands / Flows
+# 🚀 [GIT](/index.html) Commands / Flows
 
 ## Initialize a local repo: (after creating shell in github)
 
