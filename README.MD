@@ -4,11 +4,21 @@
 </h1>
 </p>
 
-# 🚀 AWS Commands
+# 🚀 AWS (Amazon Web Services)
 
-## AWS CLI
+## Web Services
 
-# Installation of Visual Code on Raspberry PI
+## CLI Commands
+
+# Raspberry PI
+
+All things related to hardware and software installation
+
+# SD Card
+
+# Software Installation
+
+## Visual code
 
 ## 1. wget https://packagecloud.io/headmelted/codebuilds/gpgkey -O - | sudo apt-key add -
 
@@ -64,9 +74,11 @@ You can configure key based ssh for the remote Linux Ansible hosts. So password 
 - \$ sudo apt update
 - \$ sudo pip install ansible (using Python PIP) can also use Home-brew.
 
-# 🚀 GIT Commands
+# 🚀 GIT Commands / Flows
 
 ## Initialize a local repo: (after creating shell in github)
+
+"MVP for deploying code"
 
 - git init
 - git add .
