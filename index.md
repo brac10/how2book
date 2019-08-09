@@ -16,4 +16,4 @@ layout: default
 
 ### Thanks
 
-![ndm](./images/ndm.png)
+![ndm](./images/NDM.png)
