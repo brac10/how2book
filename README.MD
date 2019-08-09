@@ -16,7 +16,7 @@ All things related to hardware and software installation
 
 # SD Card
 
-# Software Installation [SOFTWARE](/SOFTBWARE/index.html)
+# Software Installation [SOFTWARE](/SOFTWARE/index.html)
 
 ## Visual code
 
