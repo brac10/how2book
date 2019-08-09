@@ -57,4 +57,4 @@ installation on Ubuntu systems. Run the following command to configure AnsiblePP
 
 (using Python PIP) can also use Home-brew.
 
-[back](../)
+[back](./)
