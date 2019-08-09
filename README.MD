@@ -42,21 +42,21 @@ You can configure key based ssh for the remote Linux Ansible hosts. So password 
 - \$sudo apt update
 - \$sudo apt install ansible
 
-- Step 5: Install Ansible on Raspberry Pi
+### Step 5: Install Ansible on Raspberry Pi
 
 - \$ sudo apt update
 - \$ sudo pip install ansible (using Python PIP) can also use Home-brew.
 
 # 🚀 GIT Commands
 
-1. Initialize a local repo: (after creating shell in github)
+## Initialize a local repo: (after creating shell in github)
 
 - git init
 - git add .
 - git remote add origin https://github.com/brac10/XXXXXXX.git
 - git push -u origin master
 
-2. Checkout a Branch (process used to start a project from a code base)
+## Checkout a Branch (process used to start a project from a code base)
 
 - git checkout -b &lt;feature branch&gt;
 
