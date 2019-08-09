@@ -7,6 +7,22 @@
 AWS CLI
 <br/>
 
+# Installation of Visual Code on Raspberry PI
+
+## 1. wget https://packagecloud.io/headmelted/codebuilds/gpgkey -O - | sudo apt-key add -
+
+## 2. curl -L https://code.headmelted.com/installers/apt.sh | sudo bash
+
+If version 1.32 is installed, you'll have to us the previous version. (29)
+
+## 3. sudo apt-get install code-oss=1.29.0-1539702286
+
+This will overlay the bad version. (v32)
+
+## 4. sudo apt-mark hold code-oss
+
+(Run this command to tell the Raspberry PI not to upgrade code-oss when other software is being upgraded as well)
+
 # Installation of Ansible Control Machine plus all Servers
 
 ## Hardware Overview:
