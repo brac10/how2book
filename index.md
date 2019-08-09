@@ -8,11 +8,11 @@ layout: default
 
 ## [GIT](./GIT/git.html)
 
-## [Software](./Software/software.html)
+## [Software](./SOFTWARE/software.html)
 
 ## [RaspberryPi](./RaspberryPI/pi.html)
 
-## [Linux](./Linux/linux.html)
+## [Linux](./LINUX/linux.html)
 
 ### Thanks
 
