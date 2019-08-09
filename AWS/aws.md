@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# GIT Commands
+# AWS Commands
 
 [back](./)

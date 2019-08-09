@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# GIT Commands
+## Linux Commands
 
 [back](./)

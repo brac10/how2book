@@ -18,11 +18,11 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Basic RangerPI How 2 Book" />
 <meta property="og:description" content="Basic RangerPI How 2 Book" />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
+<link rel="canonical" href="http://localhost:4000/GIT/git.html" />
+<meta property="og:url" content="http://localhost:4000/GIT/git.html" />
 <meta property="og:site_name" content="Ranger-PI theme" />
 <script type="application/ld+json">
-{"name":"Ranger-PI theme","description":"Basic RangerPI How 2 Book","@type":"WebSite","url":"http://localhost:4000/","headline":"Ranger-PI theme","@context":"https://schema.org"}</script>
+{"description":"Basic RangerPI How 2 Book","@type":"WebPage","url":"http://localhost:4000/GIT/git.html","headline":"Ranger-PI theme","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -42,21 +42,40 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
-          <h2 id="aws"><a href="./AWS/aws.html">AWS</a></h2>
+          <h1 id="git-commands">GIT Commands</h1>
 
-<p>Commands Needed to Support AWS</p>
+<h2 id="initialize-a-local-repo-after-creating-shell-in-github-mvp-for-deploying">Initialize a local repo: (after creating shell in github) “MVP for deploying</h2>
 
-<h2 id="git"><a href="./GIT/git.html">GIT</a></h2>
+<h2 id="steps-for-quick-deployments">Steps for Quick Deployments</h2>
 
-<h2 id="software"><a href="./Software/software.html">Software</a></h2>
+<ul>
+  <li>git init</li>
+  <li>git add .</li>
+  <li>git remote add origin https://github.com/brac10/XXXXXXX.git</li>
+  <li>git push -u origin master</li>
+</ul>
 
-<h2 id="raspberrypi"><a href="./RaspberryPI/pi.html">RaspberryPi</a></h2>
+<h2 id="checkout-a-branch-process-used-to-start-a-project-from-a-code-base">Checkout a Branch (process used to start a project from a code base)</h2>
 
-<h2 id="linux"><a href="./Linux/linux.html">Linux</a></h2>
+<ul>
+  <li>git checkout -b &lt;feature branch&gt;</li>
+</ul>
 
-<h3 id="thanks">Thanks</h3>
+<h2 id="apply-changes">apply changes</h2>
 
-<p><img src="./images/ndm.png" alt="ndm" /></p>
+<ul>
+  <li>git add .</li>
+  <li>git commit -m “#comment:story link”</li>
+</ul>
+
+<h2 id="push-changes-upstream-from-local-machine">push changes upstream from local Machine</h2>
+
+<ul>
+  <li>git push
+–set-upstream origin &lt;feature branch&gt;</li>
+</ul>
+
+<p><a href="./">back</a></p>
 
         </section>
 
