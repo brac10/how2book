@@ -15,3 +15,5 @@ All things related to hardware and software installation
 ## [Software Installation](/SOFTWARE/index.html)
 
 ## 🚀 [GIT](/GIT/index.html) Commands / Flows
+
+![ndm](./images/NDM.png)
