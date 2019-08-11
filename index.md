@@ -2,17 +2,17 @@
 layout: default
 ---
 
-## [AWS](./AWS/aws.html)
+## [AWS](./AWS/aws.md)
 
 <p>Commands Needed to Support AWS</p>
 
-## [GIT](./GIT/git.html)
+## [GIT](./GIT/git.md)
 
-## [Software](./SOFTWARE/software.html)
+## [Software](./SOFTWARE/software.md)
 
-## [RaspberryPi](./RaspberryPI/pi.html)
+## [RaspberryPi](./RaspberryPI/pi.md)
 
-## [Linux](./LINUX/linux.html)
+## [Linux](./LINUXlinux.md)
 
 ### Thanks
 
