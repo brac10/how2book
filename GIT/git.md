@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # GIT Commands
 
 ## Initialize a local repo: (after creating shell in github) "MVP for deploying
