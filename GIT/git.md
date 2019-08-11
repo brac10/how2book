@@ -22,5 +22,3 @@
 
 - git push
   –set-upstream origin &lt;feature branch&gt;
-
-[back](../)
