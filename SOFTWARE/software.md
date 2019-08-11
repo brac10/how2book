@@ -57,4 +57,56 @@ installation on Ubuntu systems. Run the following command to configure AnsiblePP
 
 (using Python PIP) can also use Home-brew.
 
+<<<<<<< refs/remotes/origin/master
+=======
+## Installing SAMBA "File Sharing"
+
+- sudo apt-get update
+- sudo apt-get install samba samba-common-bin smbclient cifs-utils
+- sudo nano /etc/samba/smb.conf (remove existing content)
+- replace with the following text
+  <hr>
+  Configuration:
+  [global]
+  netbios name = <b>XXXXX</b>
+  server string = The Pi File Center
+  workgroup = WORKGROUP
+  hosts allow =
+  socket options = TCP_NODELAY IPTOS_LOWDELAY SO_RCVBUF=65536 SO_SNDBUF=65536
+  remote announce =
+  remote browse sync =
+
+[HOME]
+path = /home/
+comment = No comment
+browsable = yes
+read only = no
+valid users =
+writable = yes
+guest ok = yes
+public = yes
+create mask = 0777
+directory mask = 0777
+force user = root
+force create mode = 0777
+force directory mode = 0777
+hosts allow =
+
+<hr>
+
+- Creating Samba User:
+  -- sudo smbpasswd -a pi
+  -- type password, press enter
+
+* Restart Samba Service:
+  -- sudo service smbd restart
+
+### How to Fix VNC Server "Cannot show desktop"
+
+- sudo apt-get install tightvncserver
+- tightvncserver :1
+  <p>Prompts for a password for viewing, reply 'N'</p>
+- when connecting with VNCViewer, reply with IP-Address + ':1'
+
+>>>>>>> added fixes for VNC
 [back](./)
