@@ -53,8 +53,6 @@ installation on Ubuntu systems. Run the following command to configure AnsiblePP
 
 (using Python PIP) can also use Home-brew.
 
-<<<<<<< refs/remotes/origin/master
-=======
 ## Installing SAMBA "File Sharing"
 
 - sudo apt-get update
