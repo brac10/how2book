@@ -1,6 +1,4 @@
----
-layout: default
----
+# 🇺🇸 SpecOps Playbook 🇺🇸
 
 ## [AWS](./AWS/aws.md)
 
@@ -9,7 +7,7 @@ layout: default
 ## [GIT](./GIT/git.md)
 
 ## [Software](./SOFTWARE/software.md)
-
+## [Ansible](./SOFTWARE/ansible.md)
 ## [RaspberryPi](./RaspberryPI/pi.md)
 
 ## [Linux](./LINUXlinux.md)
