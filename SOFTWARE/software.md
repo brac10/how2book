@@ -1,7 +1,3 @@
----
-layout: RangerPi
----
-
 # Software Installation
 
 ## Installing Visual Code
@@ -108,5 +104,3 @@ hosts allow =
   <p>Prompts for a password for viewing, reply 'N'</p>
 - when connecting with VNCViewer, reply with IP-Address + ':1'
 
->>>>>>> added fixes for VNC
-[back](./)
