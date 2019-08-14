@@ -24,5 +24,5 @@ Categories=Utility;
 ----
 
 download the conkyrc file to home directory as .conkyrc
-
+wget -O /home/pi/.conkyrc https://raw.githubusercontent.com/brac10/software/master/rpi3_conkyrc
 wget -O /home/pi/.conkyrc https://raw.githubusercontent.com/brac10/software/master/rpi3_conkyrc
