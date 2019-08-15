@@ -29,13 +29,14 @@ override_utf8_locale no
 use_spacer right
 
 TEXT
-${font Arial:size=20}${color Tan1}Ranger${color Ivory}Pi
+${font Arial:size=20}${color Tan1}Ranger${color Ivory}PI
 
 ${voffset -90}
 ${color DimGray}
 ${font}
 ${font Arial:bold:size=10}${color Tan1}SYSTEM ${color DarkSlateGray} ${hr 2}
 $font${color DimGray}$sysname $kernel $alignr $machine
+
 Frequency $alignr${freq_g cpu0}Ghz
 Uptime $alignr${uptime}
 File System $alignr${fs_type}
@@ -65,6 +66,14 @@ $font${top_mem name 4}${alignr}${top mem 4} %
 $font${top_mem name 5}${alignr}${top mem 5} %
 
 ${font Arial:bold:size=10}${color Tan2}NETWORK ${color DarkSlateGray}${hr 2}
+$font${color DimGray}IP on eth0 $alignr ${addr eth0}
+
+Down $alignr ${downspeed eth0} kb/s
+Up $alignr ${upspeed eth0} kb/s
+
+Downloaded: $alignr  ${totaldown eth0}
+Uploaded: $alignr  ${totalup eth0}
+
 $font${color DimGray}IP on wlan0 $alignr ${addr wlan0}
 
 Down $alignr ${downspeed wlan0} kb/s

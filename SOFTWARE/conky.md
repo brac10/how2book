@@ -10,7 +10,7 @@ sudo apt-get install conky
 exit 0
 ---
 
-2. Create Desktop startup command 
+2. Create Desktop startup command
 -  sudo nano /etc/xdg/autostart/conky.desktop
 Fill with:
 ---
@@ -24,5 +24,4 @@ Categories=Utility;
 ----
 
 download the conkyrc file to home directory as .conkyrc
-wget -O /home/pi/.conkyrc https://raw.githubusercontent.com/brac10/software/master/rpi3_conkyrc
-wget -O /home/pi/.conkyrc https://raw.githubusercontent.com/brac10/software/master/rpi3_conkyrc
+wget -O /home/pi/.conkyrc https://raw.githubusercontent.com/novaspirit/rpi_conky/master/rpi3_conkyrc

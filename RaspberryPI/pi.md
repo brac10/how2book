@@ -12,7 +12,7 @@ Download your Rasbian image to "download" folder. (zip or tar) -
 ![images](../images/image1.png)
 <br/>
 
-## Installtion of Blinkstick
+## Installation of Blinkstick
 
 - Description: USB Device which can indicate various changes in state based on internal processing within the application or infrastructure.bp
 
