@@ -41,11 +41,13 @@ You can also run a command using shell module. For example, test the free memory
 ## Using External Inventory Files
 
 ![images](./images/image5.png)
+
 Allows your inventory to be placed in a file called Inventory.ini and run via ansible command or playbook.
 
 ## NGINX Playbook
 
 ![images](./images/image6.png)
+
 In addition to basic installation of nginx, a template can be used to define attributes unique to the application via:
 
     default.conf
@@ -55,3 +57,4 @@ For each specialty server, a unique role is established for tasks within a playb
 That allows the playbook contain the minimum values in its file with values for handlers, tasks and templates needed.
 
 ![images](./images/image7.png)
+
