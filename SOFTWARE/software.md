@@ -95,10 +95,4 @@ hosts allow =
 * Restart Samba Service:
   -- sudo service smbd restart
 
-### How to Fix VNC Server "Cannot show desktop"
-
-- sudo apt-get install tightvncserver
-- tightvncserver :1
-  <p>Prompts for a password for viewing, reply 'N'</p>
-- when connecting with VNCViewer, reply with IP-Address + ':1'
 
