@@ -44,13 +44,17 @@ You can also run a command using shell module. For example, test the free memory
 
 Allows your inventory to be placed in a file called Inventory.ini and run via ansible command or playbook.
 
-## NGINX Playbook
+# Ansible Galaxy
+Service to download unqique roles within Ansisble.
 
-![images](./images/image6.png)
+nginx installation
 
-In addition to basic installation of nginx, a template can be used to define attributes unique to the application via:
+- ansible-galaxy install geerlingguy.nginx
 
-    default.conf
+loadbalancer using nginx
+
+- ansible-galaxy install holms.balancer
+
 
 For each specialty server, a unique role is established for tasks within a playbook.
 
