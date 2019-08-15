@@ -1,8 +1,8 @@
 ---
-# Configuring Ansible
+# Ansible Commands 
 ---
 
-## Step 1: Configure Ansible Hosts & Groups (This is performed on your host computer)
+## Step 1: Once Installed - Configure Ansible Hosts & Groups (This is performed on your host computer)
 
 \$sudo nano /etc/ansible/hosts
 
