@@ -58,3 +58,15 @@ That allows the playbook contain the minimum values in its file with values for 
 
 ![images](./images/image7.png)
 
+## Listing Your Installed Roles
+
+You can use the ansible-galaxy list command to list all the roles and role versions you have installed.
+ - ansible-galaxy listInstalling Multiple Roles From a File
+
+## Installing Multiple Roles From a File
+
+Multiple roles can be installed by listing them in a requirements.yml file. The format of the file is YAML, and the file extension must be either .yml or .yaml.
+
+Use the following command to install roles included in requirements.yml:
+
+- $ ansible-galaxy install -r requirements.yml
