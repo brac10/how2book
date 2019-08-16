@@ -8,16 +8,12 @@
 ### CLI Commands
 
 ## [Raspberry PI](/RaspberryPI/index.html)
-
 All things related to hardware and software installation
-
-## SD Card
-
 ## [Software Installation](/SOFTWARE/index.html)
 ## [Ansible](/SOFTWARE/ansible.md)
 
 ## 🚀 [GIT](/GIT/index.html) Commands / Flows
-
+*_Thank you for your service_*
 ![ndm](./images/NDM.png)
 
 Helper Index
@@ -33,7 +29,8 @@ Helper Index
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[Link](url) and ![Image](src)
+
+'[Link](url) and ![Image](src)'
 
 For more details see GitHub Flavored Markdown.
 Jekyll Themes
