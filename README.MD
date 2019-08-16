@@ -1,4 +1,4 @@
-# 🇺🇸 Ranger-Pi SpecOps How-2 Playbook 🇺🇸
+# 🇺🇸 Ranger-Pi _SpecOps_ How-2 Playbook 🇺🇸
 
 
 ## 🚀 [AWS](/AWS/index.html) (Amazon Web Services)
