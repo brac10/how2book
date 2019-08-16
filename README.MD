@@ -13,7 +13,9 @@ All things related to hardware and software installation
 ## [Ansible](/SOFTWARE/ansible.md)
 
 ## 🚀 [GIT](/GIT/index.html) Commands / Flows
+
 *_Thank you for your service_*
+
 ![ndm](./images/NDM.png)
 
 Helper Index
