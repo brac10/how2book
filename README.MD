@@ -17,7 +17,7 @@ All things related to hardware and software installation
 *_Thank you for your service_*
 
 ![ndm](./images/NDM.png)
-![ranger](./images/thumbnail.png)
+![ranger](./thumbnail.png)
 Helper Index
 
 # Header 1
