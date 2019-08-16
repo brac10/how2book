@@ -1,6 +1,11 @@
 # 🇺🇸 Ranger-Pi _SpecOps_ How-2 Playbook 🇺🇸
+   <pre>
+   **Hello** `world`.
 
-
+   ```javascript
+   alert('Hello syntax highlighting.');
+   ```
+   </pre>
 ## 🚀 [AWS](/AWS/index.html) (Amazon Web Services)
 
 ### Web Services
