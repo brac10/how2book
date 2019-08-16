@@ -1,9 +1,9 @@
 # 🇺🇸 Ranger-Pi _SpecOps_ How-2 Playbook 🇺🇸
  
-   **Hello** `world`.
+   **Howdy** `Texas`.
 
    ```javascript
-   alert('Hello syntax highlighting.');
+   alert('Howdy from Texas.');
    ```
 
 ## 🚀 [AWS](/AWS/index.html) (Amazon Web Services)
