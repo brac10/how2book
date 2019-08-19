@@ -7,7 +7,11 @@
 ## [GIT](./GIT/git.md)
 
 ## [Software](./SOFTWARE/software.md)
+
+## [CICD](./CICD/README.md)
+
 ## [Ansible](./SOFTWARE/ansible.md)
+
 ## [RaspberryPi](./RaspberryPI/pi.md)
 
 ## [Linux](./LINUXlinux.md)
